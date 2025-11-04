@@ -45,7 +45,7 @@ It highlights how **age and gender** influence the likelihood and type of New Ye
 ## 📷 Preview
 | Age Filter | Gender Filter |
 |-------------|---------------|
-| ![Age View](./1.png) | ![Gender View](./2.png) |
+| ![Age View](./Age.png) | ![Gender View](./Gender.png) |
 
 ---
 
