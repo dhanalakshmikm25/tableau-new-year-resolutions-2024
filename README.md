@@ -55,7 +55,7 @@ It highlights how **age and gender** influence the likelihood and type of New Ye
 | `Dhanalakshmi-KannurMunirathnam-BIS582_Assignment3.twbx` | Tableau workbook |
 | `New_Year_s_Resolutions_Dataset.csv` | Dataset used |
 | `YouGov_-_New_Years_resolutions_2024.pdf` | Original YouGov survey reference |
-| `1.png`, `2.png` | Dashboard screenshots |
+| `Age.png`, `Gender.png` | Dashboard screenshots |
 
 ---
 
